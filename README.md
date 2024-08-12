@@ -15,7 +15,7 @@
 - Pester
 - Profiler
 
-- Vorstellung Desired State Configuration
+- Introdution Desired State Configuration
 - PowerShell Code Design and Best Practices
 - Code Security und Code Signing
   - Execution Policy is not a security tool: [15 Ways to Bypass the PowerShell Execution Policy](https://www.netspi.com/blog/technical-blog/network-pentesting/15-ways-to-bypass-the-powershell-execution-policy). AppLocker is the way to go.
