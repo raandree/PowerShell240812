@@ -22,4 +22,4 @@
 - Module Entwicklung und Bereitstellung über Azure DevOps Artifact Feeds
   - [Functions: From one-liner to a full featured advanced function]      (https://github.com/raandree/PowerShellTraining)
   - [How to create intuitive cmdlets your audience likes - Raimund Andrée - PSConfEU 2024](https://www.youtube.com/watch?v=DlMOXDyvYIE)
-- Umsetzung von Automationsanforderungen
+- Credential Handling.
